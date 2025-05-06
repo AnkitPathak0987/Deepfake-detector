@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/davidperjac/react-wordle-clon">
+  <a href="https://github.com/AnkitPathak0987/Deepfake-detector">
     <img src="resources/logo.jpeg" alt="Logo" width="250" height="250">
   </a>
 
@@ -57,7 +57,7 @@ To use this application, simply clone the repository, move into the client and s
 1. Clone the repo
 
 ```sh
-git clone https://github.com/davidperjac/react-wordle-clon.git
+git clone https://github.com/AnkitPathak0987/Deepfake-detector
 ```
 
 ### Client Installation
